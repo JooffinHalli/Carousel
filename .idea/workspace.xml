@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0e32e018-f278-42ae-ae58-d29805a71a13" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/FuturaPT-Bold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/FuturaPT-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/FuturaPT-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/FuturaPT-Book.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/FuturaPT-Book.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/FuturaPT-Book.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/FuturaPT-Heavy.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/FuturaPT-Heavy.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/FuturaPT-Heavy.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/card1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/card2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/card3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/card4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1o5dUJghwT8jXAmGYttJq6FiBcc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="file.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/test/file.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.file.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e32e018-f278-42ae-ae58-d29805a71a13" name="Default Changelist" comment="" />
+      <created>1612580399975</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612580399975</updated>
+      <workItem from="1612580401177" duration="445000" />
+      <workItem from="1612686235611" duration="16097000" />
+      <workItem from="1612683934792" duration="5472000" />
+      <workItem from="1612723594877" duration="26584000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
